@@ -14,5 +14,5 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-#echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
+echo 'src-git zxlhhyccc https://github.com/zxlhhyccc/luci-app-v2raya' >>feeds.conf.default
 echo 'src-git QiuSimons https://github.com/QiuSimons/openwrt-mos' >>feeds.conf.default
